@@ -1,0 +1,4 @@
+Sitemap: https://ahmeterenboyaci.com/sitemap.xml
+User-agent: *
+Disallow: /account/login
+Disallow: /dashboard
